@@ -1,12 +1,13 @@
 <template>
   <div>
     <h1>Create Event</h1>
-    <p>小李有点牛b</p>
+    <p>Hello World</p>
   </div>
 
 </template>
 
 <script>
+
 export default {
 
 }
